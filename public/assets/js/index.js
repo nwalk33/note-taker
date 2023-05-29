@@ -1,8 +1,8 @@
-let noteTitle;
-let noteText;
-let saveNoteBtn;
-let newNoteBtn;
-let noteList;
+var noteTitle;
+var noteText;
+var saveNoteBtn;
+var newNoteBtn;
+var noteList;
 
 if (window.location.pathname === '/notes') {
   noteTitle = document.querySelector('.note-title');
