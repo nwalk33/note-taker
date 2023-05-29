@@ -31,9 +31,10 @@ Open your web browser and go to http://localhost:8000 to use the application.
 
 
 # Credits <a name="credits"></a>
+Thank you to the UCLA coding bootcamp staff. 
 
-# Links <a name="links></a>
+# Links <a name="links"></a>
 This application has been deployed to Heroku and can be accessed by going to 
 
-
 # Questions <a name="questions"></a>
+You can contact me at nwalk33@yahoo.com for any questions or concerns.
