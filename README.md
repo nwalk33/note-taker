@@ -1,4 +1,3 @@
-
 ## Express.js: Note Taker
 
 # Table of Contents 
@@ -29,7 +28,7 @@ In order to observe the functionality of this application, type in a title for y
 Thank you to the UCLA coding bootcamp staff. 
 
 # Links <a name="links"></a>
-This application has been deployed to Heroku and can be accessed by going to 
+This application has been deployed to Heroku and can be accessed by going to https://nw-notetaker.herokuapp.com/
 
 # Questions <a name="questions"></a>
 You can contact me at nwalk33@yahoo.com for any questions or concerns.
